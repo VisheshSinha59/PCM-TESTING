@@ -1,3 +1,3 @@
 PCM-TESTING is a python-based coding for XII th grade science stream(mainly for PCM) students to test to themselves for their Boards Examinations.
 
-To make this code run, you have to makes some changes according to your system configuration. Firstly, you have downlaod the folder 'qbank' and save it into C-Drive users and after that change the directory mapping of the coding with the directory of the folder'qbank' of your system. And, Make it Run
+To make this code run, you have to makes some changes according to your system configuration. Firstly, you have downlaod the folder 'qbank' and save it into C-Drive users and after that change the directory mapping of the coding with the directory of the folder'qbank' of your system. And, lastly also make changes in length of images in 'check and select images' section according to the number of Pyq images you have in the folder 'qbank'. And, make it Run.
