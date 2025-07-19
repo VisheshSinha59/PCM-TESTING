@@ -42,11 +42,11 @@ for chap in selected_chapters:
             matching_files.append(os.path.join(d, fn))
 
 # 4️⃣ Check & select images
-if len(matching_files) < 10:
+if len(matching_files) < 1:
     print("Not enough images found.")
     exit(1)
 
-selected_files = random.sample(matching_files, 10)
+selected_files = random.sample(matching_files, 1)
 
 # 5️⃣ Display them one by one
 for img_path in selected_files:
